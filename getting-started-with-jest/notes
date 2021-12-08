@@ -1,0 +1,14 @@
+Why you should test?
+- Goal: check whether an applicacions behaves as expected
+- safeguard against unwanted behaviour when changes are made
+- automated, and thus efficient on the long-term
+
+Have a test priority (example):
+
+1. high value features
+2. Edge cases in high value features
+3. things that are easy to break
+4. Basic react component testing
+    - User interactions
+    - Conditional rendering
+    - Utils / hooks
