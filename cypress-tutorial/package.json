@@ -1,0 +1,16 @@
+{
+  "name": "cypress-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "start-server-and-test": "^1.14.0"
+  }
+}
